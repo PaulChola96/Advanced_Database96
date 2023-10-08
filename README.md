@@ -1,2 +1,2 @@
-# Advanced_Database96
-A simple demo project ranging from Data pipeline and Data Science.
+# AdvancedDatabase_ETL
+A simple demo on how ETL can be used in the Aviation Industry.
